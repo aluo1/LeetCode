@@ -7,7 +7,7 @@
     Acknowledgement: This code is built upon the skeleton provided by LeetCode    
 """
 
-class Solution(object):
+class TwoSum(object):
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
@@ -18,11 +18,11 @@ class Solution(object):
         length = len(nums)
         found = False
 
-        for indexOne in range(length):
-            for indexTwo in range(indexOne+1, length):
-                if ((nums[indexOne] + nums[indexTwo]) == target):
-                    result[0] = indexOne
-                    result[1] = indexTwo
+        for index_one in range(length):
+            for index_two in range(index_one+1, length):
+                if ((nums[index_one] + nums[index_two]) == target):
+                    result[0] = index_one
+                    result[1] = index_two
                     found = True
                     break
             if (found):
@@ -30,7 +30,7 @@ class Solution(object):
         return result
 
 # Test case
-solution = Solution()
+solution = TwoSum()
 
 result = solution.twoSum([2, 7, 11, 15], 9)
 print "Given list Given nums = [2, 7, 11, 15], target = 9, the result is [", result[0], ",", result[1], "]"
