@@ -18,4 +18,12 @@ public class TreeNode {
     TreeNode(int x) {
         val = x;
     }
+
+    public void insertNode(TreeNode node) {
+        if (node.val >= val) {
+            this.right = node;
+        } else {
+            this.left = node;
+        }
+    }
 }
