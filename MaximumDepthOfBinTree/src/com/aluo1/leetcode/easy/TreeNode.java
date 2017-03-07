@@ -1,3 +1,5 @@
+package com.aluo1.leetcode.easy;
+
 /**
  * Author: An Luo
  * email: aluo1.developer@gmail.com
