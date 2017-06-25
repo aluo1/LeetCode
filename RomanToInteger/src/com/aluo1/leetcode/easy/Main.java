@@ -1,20 +1,69 @@
 package com.aluo1.leetcode.easy;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class Main {
 
     public static void main(String[] args) {
-        romanToInt("X");
+        System.out.println(romanToInt("X"));
     }
 
     public static int romanToInt(String s) {
         Map<String, Integer> romanToIntDic = getRomanToIntDic();
+        int valueInInt = 0;
+        int i;
 
-        System.out.println(romanToIntDic);
+        for (i = 0; i < s.length()-1; i++) {
+            char currentChar = s.charAt(i);
+            System.out.println(i);
+            if (currentChar == 'I') {
+                char nextChar = s.charAt(i+1);
+                if (nextChar == 'V') {
+                    valueInInt += romanToIntDic.get("IV");
+                    i++;
+                } else if (nextChar == 'X') {
+                    valueInInt += romanToIntDic.get("IX");
+                    i++;
+                } else {
+                    valueInInt += romanToIntDic.get("I");
+                }
+            } else if (currentChar == 'X') {
+                char nextChar = s.charAt(i+1);
+                if (nextChar == 'L') {
+                    valueInInt += romanToIntDic.get("XL");
+                    i++;
+                } else if (nextChar == 'C') {
+                    valueInInt += romanToIntDic.get("XC");
+                    i++;
+                } else {
+                    valueInInt += romanToIntDic.get("X");
+                }
+            } else if (currentChar == 'C') {
+                char nextChar = s.charAt(i+1);
+                if (nextChar == 'D') {
+                    valueInInt += romanToIntDic.get("CD");
+                    i++;
+                } else if (nextChar == 'M') {
+                    valueInInt += romanToIntDic.get("CM");
+                    i++;
+                } else {
+                    valueInInt += romanToIntDic.get("C");
+                }
+            } else {
+                valueInInt += romanToIntDic.get(currentChar);
+            }
+        }
 
-        return 0;
+        System.out.println(i);
+        if (i != (s.length())) {
+            valueInInt += romanToIntDic.get(s.charAt(i+1));
+        }
+
+//        System.out.println(romanToIntDic);
+
+        return valueInInt;
     }
 
     /* a private method to create a dictionary for roman to integer */
