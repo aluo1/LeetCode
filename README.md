@@ -10,4 +10,5 @@ Solution for LeetCode Problems
 | Jewels and Stones | Easy | C# | https://leetcode-cn.com/problems/jewels-and-stones/ |
 | Flip Game | Easy | C# | https://leetcode-cn.com/problems/flip-game/ |
 | Duplicate Emails | Easy | MS SQL Server | https://leetcode-cn.com/problems/duplicate-emails/ |
-| Delete Node in a Linked List | Easy | C# | https://leetcode-cn.com/problems/delete-node-in-a-linked-list/submissions/ |
+| Delete Node in a Linked List | Easy | C# | https://leetcode-cn.com/problems/delete-node-in-a-linked-list/ |
+| Range Sum of BST | Easy | C# | https://leetcode-cn.com/problems/range-sum-of-bst/ |
