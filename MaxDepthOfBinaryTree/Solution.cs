@@ -8,7 +8,11 @@
  * }
  */
 public class Solution {
-    public int MaxDepth(TreeNode root) {        
+    public int MaxDepth(TreeNode root) {  
+        if (root == null) {
+            return 0;
+        }
+        
         if (root.left == null && root.right == null) {
             // Leaf
             return 1;
