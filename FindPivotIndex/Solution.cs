@@ -4,7 +4,7 @@ public class Solution {
         int midOfTheArray = (int) Math.Ceiling(nums.Length / 2d);
 
         // Start from the mid, move towards start of the array.
-        for (int i = midOfTheArray; i > 0; i--) {
+        for (int i = midOfTheArray; i >= 0; i--) {
             int sumOfLeft = 0;
             int sumOfRight = 0;
             bool broken = false;
