@@ -12,7 +12,7 @@ public class Solution {
             }
             
             // this is the right most index, skip.
-            if (i + 1 >= nums.Length) {
+            if (i + 1 > nums.Length) {
                 continue;
             }
             
