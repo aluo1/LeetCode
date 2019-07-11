@@ -11,6 +11,14 @@ public class Solution {
             }
         }
         
+        for (int i = sqrtOfC; i >= 0; i--) {
+            for (int j = 0; j <= sqrtOfC; j++) {
+                if (i*i + j*j == c) {
+                    return true;
+                }
+            }
+        }
+        
         return false;
     }
 }
