@@ -1,58 +1,23 @@
-public class Solution {
-    public int PivotIndex(int[] nums) {
-        int pivotIndex = -1;
-        int midOfTheArray = (int) Math.Ceiling(nums.Length / 2d);
+/// Question 724. Find Pivot Index
+/// Difficulty: Easy
+/// 执行用时: 200 ms, 在所有 C# 提交中击败了 67.82% 的用户
+/// 内存消耗: 28.6 MB, 在所有 C# 提交中击败了 45.83% 的用户
 
-        // Start from the mid, move towards start of the array.
-        for (int i = midOfTheArray; i >= 0; i--) {
-            int sumOfLeft = 0;
-            int sumOfRight = 0;
-            bool broken = false;
-            
-            for (int j = 0; j < i; j++) {
-                sumOfLeft += nums[j];
-            }
-            
-            // this is the right most index, skip.
-            if (i + 1 > nums.Length) {
-                continue;
-            }
-            
-            for (int j = i + 1; j < nums.Length; j++) {
-                sumOfRight += nums[j];
-            }
-            
-            if (sumOfLeft == sumOfRight) {
-                pivotIndex = i;
-            }
+public class Solution {
+    public int PivotIndex(int[] nums) {        
+        int sumOfArray = 0;
+        for (int i = 0; i < nums.Length; i++) {
+            sumOfArray += nums[i];
         }
-        
-        if (pivotIndex != -1) {
-            return pivotIndex;
-        }
-        
-        // Start from the mid, move towards end of the array.
-        for (int i = midOfTheArray; i < nums.Length; i++) {
-            int sumOfLeft = 0;
-            int sumOfRight = 0;
-            bool broken = false;
-            
-            for (int j = 0; j < i; j++) {
-                sumOfLeft += nums[j];
-            }
-            
-            // this is the right most index, skip.
-            if (i + 1 > nums.Length) {
-                continue;
-            }
-            
-            for (int j = i + 1; j < nums.Length; j++) {
-                sumOfRight += nums[j];
-            }
-            
-            if (sumOfLeft == sumOfRight) {
+
+        int sumOfSoFar = 0;
+        for (int i = 0; i < nums.Length; i++) {
+            int currentValue = nums[i];
+            if (sumOfSoFar == sumOfArray - currentValue - sumOfSoFar) {
                 return i;
             }
+            
+            sumOfSoFar += currentValue;
         }
         
         return -1;
