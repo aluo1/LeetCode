@@ -13,3 +13,4 @@ Solution for LeetCode Problems
 | Delete Node in a Linked List | Easy | C# | https://leetcode-cn.com/problems/delete-node-in-a-linked-list/ |
 | Range Sum of BST | Easy | C# | https://leetcode-cn.com/problems/range-sum-of-bst/ |
 | Sum of Square Numbers | Easy | C# | https://leetcode-cn.com/problems/sum-of-square-numbers/ |
+| Find Pivot Index | Easy | C# | https://leetcode-cn.com/problems/find-pivot-index/ |
