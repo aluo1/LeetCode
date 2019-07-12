@@ -14,3 +14,4 @@ Solution for LeetCode Problems
 | Range Sum of BST | Easy | C# | https://leetcode-cn.com/problems/range-sum-of-bst/ |
 | Sum of Square Numbers | Easy | C# | https://leetcode-cn.com/problems/sum-of-square-numbers/ |
 | Find Pivot Index | Easy | C# | https://leetcode-cn.com/problems/find-pivot-index/ |
+| Power Of Three | Easy | C# | https://leetcode-cn.com/problems/power-of-three/ |
