@@ -16,3 +16,4 @@ Solution for LeetCode Problems
 | Find Pivot Index | Easy | C# | https://leetcode-cn.com/problems/find-pivot-index/ |
 | Power Of Three | Easy | C# | https://leetcode-cn.com/problems/power-of-three/ |
 | Self Dividing Numbers | Easy | C# | https://leetcode-cn.com/problems/self-dividing-numbers/ |
+| Distribute Candies to People | Easy | C# | https://leetcode-cn.com/problems/distribute-candies-to-people/ |
