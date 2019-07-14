@@ -2,6 +2,7 @@
 /// Difficulty: Easy
 /// 执行用时: 140 ms, 在所有 C# 提交中击败了 41.50% 的用户
 /// 内存消耗: 21.1 MB, 在所有 C# 提交中击败了 21.13% 的用户
+
 public class Solution {
     public int NumJewelsInStones(string J, string S) {
         int jewelsCount = 0;
