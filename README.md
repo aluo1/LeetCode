@@ -19,3 +19,4 @@ Solution for LeetCode Problems
 | Distribute Candies to People | Easy | C# | https://leetcode-cn.com/problems/distribute-candies-to-people/ |
 | Pascal's Triangle | Easy | C# | https://leetcode-cn.com/problems/pascals-triangle/ |
 | Number of Segments in a String | Easy | C# | https://leetcode-cn.com/problems/number-of-segments-in-a-string/ |
+| Single Number | Easy | C# | https://leetcode-cn.com/problems/single-number/ |
