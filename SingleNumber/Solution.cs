@@ -25,4 +25,22 @@ public class Solution {
         // Should not be reached.
         return -1;   
     }
+
+    /*
+
+    Better solution, with the following results:
+
+    执行用时: 188 ms, 在所有 C# 提交中击败了 49.25% 的用户
+    内存消耗: 25.5 MB, 在所有 C# 提交中击败了 11.03% 的用户
+
+    public int SingleNumber(int[] nums) {
+        int a = 0;
+        
+        foreach (int num in nums) {
+            a ^= num;
+        }
+                
+        return a;
+    }
+    */
 }
