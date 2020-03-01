@@ -20,3 +20,4 @@ Solution for LeetCode Problems
 | Pascal's Triangle | Easy | C# | https://leetcode-cn.com/problems/pascals-triangle/ |
 | Number of Segments in a String | Easy | C# | https://leetcode-cn.com/problems/number-of-segments-in-a-string/ |
 | Single Number | Easy | C# | https://leetcode-cn.com/problems/single-number/ |
+| Middle of the Linked List | Easy | C# | https://leetcode-cn.com/problems/middle-of-the-linked-list/ |
