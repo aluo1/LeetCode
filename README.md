@@ -22,3 +22,4 @@ Solution for LeetCode Problems
 | Single Number | Easy | C# | https://leetcode-cn.com/problems/single-number/ |
 | Middle of the Linked List | Easy | C# | https://leetcode-cn.com/problems/middle-of-the-linked-list/ |
 | Goat Latin | Easy | C# | https://leetcode-cn.com/problems/goat-latin/ |
+| Minimum Absolute Difference | Easy | C# | https://leetcode-cn.com/problems/minimum-absolute-difference/ |
