@@ -24,3 +24,4 @@ Solution for LeetCode Problems
 | Goat Latin | Easy | C# | https://leetcode-cn.com/problems/goat-latin/ |
 | Minimum Absolute Difference | Easy | C# | https://leetcode-cn.com/problems/minimum-absolute-difference/ |
 | Flipping an Image | Easy | C# | https://leetcode-cn.com/problems/flipping-an-image/ |
+| 和为s的连续正数序列 | Easy | C# | https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/ |
