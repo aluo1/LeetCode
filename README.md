@@ -28,3 +28,4 @@ Solution for LeetCode Problems
 | 面试题59 - II. 队列的最大值 | Medium | C# | https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/ |
 | Coin Change | Medium | C# | https://leetcode-cn.com/problems/coin-change/ |
 | LCP 1. 猜数字 | Easy | Python, JavaScript | https://leetcode-cn.com/problems/guess-numbers/ |
+| 面试题 01.02. Check Permutation LCCI | Easy | C# | https://leetcode-cn.com/problems/check-permutation-lcci/ |
