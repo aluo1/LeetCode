@@ -29,3 +29,4 @@ Solution for LeetCode Problems
 | Coin Change | Medium | C# | https://leetcode-cn.com/problems/coin-change/ |
 | LCP 1. 猜数字 | Easy | Python, JavaScript | https://leetcode-cn.com/problems/guess-numbers/ |
 | 面试题 01.02. Check Permutation LCCI | Easy | C# | https://leetcode-cn.com/problems/check-permutation-lcci/ |
+| Best Time to Buy and Sell Stock | Easy | C# | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ |
