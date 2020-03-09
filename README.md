@@ -31,3 +31,4 @@ Solution for LeetCode Problems
 | 面试题 01.02. Check Permutation LCCI | Easy | C# | https://leetcode-cn.com/problems/check-permutation-lcci/ |
 | Best Time to Buy and Sell Stock | Easy | C# | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ |
 | Transpose Matrix | Easy | C# | https://leetcode-cn.com/problems/transpose-matrix/ |
+| Rank Transform of an Array | Easy | JavaScript | https://leetcode-cn.com/problems/rank-transform-of-an-array/ |
