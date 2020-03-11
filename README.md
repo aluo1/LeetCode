@@ -32,3 +32,4 @@ Solution for LeetCode Problems
 | Best Time to Buy and Sell Stock | Easy | C# | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ |
 | Transpose Matrix | Easy | C# | https://leetcode-cn.com/problems/transpose-matrix/ |
 | Diameter of Binary Tree | Easy | C# | https://leetcode-cn.com/problems/diameter-of-binary-tree/ |
+| Partition Array Into Three Parts With Equal Sum | Easy | C# | https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/ |
