@@ -5,46 +5,24 @@ public class Solution
 {
     public int MinIncrementForUnique(int[] A)
     {
-        if (A.Count() == 0) { return 0; }
+        // 执行用时: 196 ms, 在所有 C# 提交中击败了 100.00% 的用户
+        // 内存消耗: 35.3 MB, 在所有 C# 提交中击败了 50.00% 的用户
 
-        Dictionary<string, int> intCount = new Dictionary<string, int>();
+        if (A.Count() <= 1) { return 0; }
 
-        // Count frequency of int in the array.
-        foreach (int a in A)
+        Array.Sort(A);
+        int steps = 0;
+
+        for (int i = 0; i < A.Length - 1; i++)
         {
-            string aString = a.ToString();
-            if (intCount.ContainsKey(aString))
+            if (A[i] >= A[i + 1])
             {
-                intCount[aString] += 1;
-            }
-            else
-            {
-                intCount[aString] = 1;
+                // we need Ai - A(i+1) + 1 steps to make sure these two won't overlap.
+                steps += A[i] - A[i + 1] + 1;
+                A[i + 1] = A[i] + 1;
             }
         }
 
-        int totalIncremental = 0;
-
-        while (intCount.Values.Distinct().Count() != 1 || intCount.Values.Distinct().ToArray()[0] != 1)
-        {
-
-            int numToIncrement = int.Parse(intCount.Where(d => d.Value > 1).Select(d => d.Key).First());
-
-            intCount[numToIncrement.ToString()] -= 1;
-
-            string incrementedNum = (numToIncrement + 1).ToString();
-            if (intCount.ContainsKey(incrementedNum))
-            {
-                intCount[incrementedNum] += 1;
-            }
-            else
-            {
-                intCount[incrementedNum] = 1;
-            }
-
-            totalIncremental++;
-        }
-
-        return totalIncremental;
+        return steps;
     }
 }
