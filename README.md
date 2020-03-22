@@ -35,3 +35,5 @@ Solution for LeetCode Problems
 | Partition Array Into Three Parts With Equal Sum | Easy | C# | https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/ |
 | Greatest Common Divisor of Strings | Easy | C# | https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/ |
 | 面试题40. 最小的k个数 | Easy | C# | https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/ |
+| Minimum Increment to Make Array Unique | Medium | C# | https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/ |
+| One Edit Distance | Medium | C# | https://leetcode-cn.com/problems/one-edit-distance/ |
