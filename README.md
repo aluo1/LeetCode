@@ -37,3 +37,4 @@ Solution for LeetCode Problems
 | 面试题40. 最小的k个数 | Easy | C# | https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/ |
 | Minimum Increment to Make Array Unique | Medium | C# | https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/ |
 | One Edit Distance | Medium | C# | https://leetcode-cn.com/problems/one-edit-distance/ |
+| Merge Two Sorted Lists | Easy | C# | https://leetcode-cn.com/problems/merge-two-sorted-lists/ |
