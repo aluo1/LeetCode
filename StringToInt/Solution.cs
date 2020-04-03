@@ -1,6 +1,8 @@
 /// Question 8. String to Integer (atoi) (https://leetcode-cn.com/problems/string-to-integer-atoi/)
 /// Difficulty: Medium
 
+using System.Text.RegularExpressions;
+
 public class Solution
 {
     public int MyAtoi(string str)
@@ -71,6 +73,25 @@ public class Solution
 
     public int MyAtoiSecondTry(string str)
     {
+        // 执行用时 : 132 ms, 在所有 C# 提交中击败了 11.44% 的用户
+        // 内存消耗 : 28.5 MB, 在所有 C# 提交中击败了 7.41% 的用户
+        Regex regex = new Regex(@"^[+|-]?\d+");
+        MatchCollection matches = regex.Matches(str.Trim());
 
+        if (matches.Count > 0)
+        {
+            string matchedString = matches[0].Value;
+
+            try
+            {
+                return Math.Max(Math.Min(Int32.Parse(matchedString), Int32.MaxValue), Int32.MinValue);
+            }
+            catch (OverflowException)
+            {
+                return matchedString[0] == '-' ? Int32.MinValue : Int32.MaxValue;
+            }
+        };
+
+        return 0;
     }
 }
