@@ -40,3 +40,4 @@ Solution for LeetCode Problems
 | Merge Two Sorted Lists | Easy | C# | https://leetcode-cn.com/problems/merge-two-sorted-lists/ |
 | 面试题62. 圆圈中最后剩下的数字 | Easy | C# | https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/ |
 | Game of Life | Medium | C# | https://leetcode-cn.com/problems/game-of-life/ |
+| String to Integer (atoi) | Medium | C#, JavaScript | https://leetcode-cn.com/problems/string-to-integer-atoi/ |
