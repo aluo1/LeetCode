@@ -1,0 +1,25 @@
+# Write your MySQL query statement below
+# Question 1083. Sales Analysis II (https://leetcode-cn.com/problems/sales-analysis-ii/)
+# Difficulty: Easy
+# 执行用时: 1046 ms, 在所有 MySQL 提交中击败了 9.88% 的用户
+# 内存消耗: 0B, 在所有 MySQL 提交中击败了 100.00% 的用户
+
+SELECT
+  DISTINCT buyer_id
+FROM Sales AS S8S
+LEFT JOIN Product AS S8P ON S8S.product_id = S8P.product_id
+WHERE
+  product_name = 'S8'
+  AND buyer_id NOT IN (
+    SELECT
+      DISTINCT buyer_id
+    FROM Sales
+    WHERE
+      product_id IN (
+        SELECT
+          product_id
+        FROM Product
+        WHERE
+          product_name = 'iPhone'
+      )
+  )

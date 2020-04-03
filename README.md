@@ -41,3 +41,4 @@ Solution for LeetCode Problems
 | 面试题62. 圆圈中最后剩下的数字 | Easy | C# | https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/ |
 | Game of Life | Medium | C# | https://leetcode-cn.com/problems/game-of-life/ |
 | String to Integer (atoi) | Medium | C#, JavaScript | https://leetcode-cn.com/problems/string-to-integer-atoi/ |
+| 1083. Sales Analysis II | Easy | MySQL, MSSQL | https://leetcode-cn.com/problems/sales-analysis-ii/ |
