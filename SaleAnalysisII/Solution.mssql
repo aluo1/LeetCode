@@ -1,0 +1,20 @@
+/* Write your T-SQL query statement below */
+/*
+    Question 1083. Sales Analysis II (https://leetcode-cn.com/problems/sales-analysis-ii/)
+    Difficulty: Easy
+    执行用时: 4210 ms, 在所有 MySQL 提交中击败了 46.67% 的用户
+    内存消耗: 0B, 在所有 MySQL 提交中击败了 100.00% 的用户
+*/
+SELECT
+  DISTINCT buyer_id
+FROM Sales AS S8S
+LEFT JOIN Product AS S8P ON S8S.product_id = S8P.product_id
+WHERE
+  product_name = 'S8'
+EXCEPT
+SELECT
+  buyer_id
+FROM Sales AS IPS
+LEFT JOIN Product AS IPP ON IPS.product_id = IPP.product_id
+WHERE
+  product_name = 'iPhone'
