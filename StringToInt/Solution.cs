@@ -7,7 +7,7 @@ public class Solution
 {
     public int MyAtoi(string str)
     {
-
+        return MyAtoiFirstTry(str);
     }
 
     public int MyAtoiFirstTry(string str)
