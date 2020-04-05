@@ -15,6 +15,7 @@ Solution for LeetCode Easy Problems
 |                                [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                |          C#          |
 |                 [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                  |          C#          |
 |                                   [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                    |          C#          |
+|                       [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                        |    C#, JavaScript    |
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
 |                                       [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                        |          C#          |

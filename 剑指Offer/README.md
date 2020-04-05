@@ -11,5 +11,6 @@
 |            [06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)            |    Easy    |    C#, JavaScript    |
 | [40. 最小的 k 个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/minimum-increment-to-make-array-unique/) |    Easy    |          C#          |
 |        [57. 和为 s 的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)         |    Easy    |    C#, JavaScript    |
-|              [面试题 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)              |   Medium   |          C#          |
+|                [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)                 |    Easy    |   C#， JavaScript    |
+|                 [59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)                  |   Medium   |          C#          |
 |     [62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)     |    Easy    |          C#          |
