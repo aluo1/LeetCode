@@ -7,3 +7,4 @@ Solution for LeetCode Difficult Problems
 |                                     Problems                                     | Language Implemented |
 | :------------------------------------------------------------------------------: | :------------------: |
 | [42. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |    JavaScript, C#    |
+|    [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/submissions/)     |          C#          |
