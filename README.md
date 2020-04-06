@@ -10,5 +10,7 @@ Solution for LeetCode Problems
   - This folder contains problems whose difficulties are marked as easy.
 - [Medium](./Medium)
   - This folder contains problems whose difficulties are marked as medium.
-- [剑指Offer](./剑指Offer)
+- [剑指 Offer](./剑指Offer)
   - 该文件包含《剑指 Offer》中出现的题目。
+- [程序员面试金典](./程序员面试金典)
+  - 该文件包含 《程序员面试金典（第 6 版）》中出现的题目。

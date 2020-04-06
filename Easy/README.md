@@ -40,4 +40,3 @@ Solution for LeetCode Easy Problems
 |                     [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                     |          C#          |
 |                      [1331. Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/)                      |          C#          |
 |                                      [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)                                      |  Python, JavaScript  |
-|                      [面试题 01.02. Check Permutation LCCI](https://leetcode-cn.com/problems/check-permutation-lcci/)                      |          C#          |
