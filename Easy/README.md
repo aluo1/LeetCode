@@ -35,6 +35,7 @@ Solution for LeetCode Easy Problems
 |                                    [1064 - Fixed Point](https://leetcode-cn.com/problems/fixed-point/)                                     |          C#          |
 |              [1071. Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)              |          C#          |
 |                               [1083. Sales Analysis II](https://leetcode-cn.com/problems/sales-analysis-ii/)                               |     MySQL, MSSQL     |
+|                              [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                              |        MSSQL         |
 |                    [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                    |          C#          |
 |                     [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                     |          C#          |
 |                      [1331. Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/)                      |          C#          |
