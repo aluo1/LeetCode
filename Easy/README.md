@@ -9,6 +9,7 @@ Solution for LeetCode Easy Problems
 |                                            [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            | C, Java, Python, C#  |
 |                                  [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)                                   |          C#          |
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |         Java         |
+|                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
