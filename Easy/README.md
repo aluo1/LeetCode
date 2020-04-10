@@ -9,13 +9,15 @@ Solution for LeetCode Easy Problems
 |                                            [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            | C, Java, Python, C#  |
 |                                  [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)                                   |          C#          |
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |         Java         |
+|                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
 |                                [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                |          C#          |
 |                 [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                  |          C#          |
 |                                   [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                    |          C#          |
-|                       [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                        |    C#, JavaScript    |
+|                                       [155. Min Stack](https://leetcode-cn.com/problems/min-stack/)                                        |          C#          |
+|                       [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                        |          C#          |
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
 |                             [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                              |    C#, JavaScript    |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
