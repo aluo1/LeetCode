@@ -25,6 +25,7 @@ Solution for LeetCode Easy Problems
 |                      [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                       |          C#          |
 |                                  [326. Power Of Three](https://leetcode-cn.com/problems/power-of-three/)                                   |          C#          |
 |                 [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                  |          C#          |
+|                   [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                    |          C#          |
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
 |                           [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                            |          C#          |
