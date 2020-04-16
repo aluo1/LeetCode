@@ -15,6 +15,7 @@ Solution for LeetCode Problems
 |                           [289. Game of Life](https://leetcode-cn.com/problems/game-of-life/)                           |                 C#                  |
 |                            [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)                            |                 C#                  |
 |                         [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                         |                 C#                  |
+|                             [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                             |                 C#                  |
 |                              [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                              |                 C#                  |
 |                  [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                  | C#, Java (Prodived Sample Solution) |
 |                     [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                     |                 C#                  |
