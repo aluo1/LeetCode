@@ -13,6 +13,7 @@ Solution for LeetCode Problems
 |              [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)              |           C#, JavaScript            |
 |                      [161. One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/)                      |                 C#                  |
 |                      [200. Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)                      |                 C#                  |
+|                        [279. Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)                        |                 C#                  |
 |                        [286. Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/)                        |                 C#                  |
 |                           [289. Game of Life](https://leetcode-cn.com/problems/game-of-life/)                           |                 C#                  |
 |                            [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)                            |                 C#                  |
