@@ -2,14 +2,18 @@
 
 public class Solution
 {
+    /// 执行用时 : 968 ms, 在所有 C# 提交中击败了 36.00% 的用户
+    /// 内存消耗 : 41.3 MB, 在所有 C# 提交中击败了 100.00% 的用户
+
     public int OpenLock(string[] deadends, string target)
     {
+        HashSet<string> dead = new HashSet<string>(deadends);
+
         Queue<string> queue = new Queue<string>();
         queue.Enqueue("0000");
         queue.Enqueue("");
 
-        Dictionary<string, bool> seen = new Dictionary<string, bool>();
-        seen["0000"] = true;
+        HashSet<string> visited = new HashSet<string>() { "0000" };
 
         int depth = 0;
 
@@ -29,7 +33,7 @@ public class Solution
             {
                 return depth;
             }
-            else if (!deadends.Any(s => s.Equals(currentLock)))
+            else if (!dead.Contains(currentLock))
             {
                 for (int i = 0; i < currentLock.Length; i++)
                 {
@@ -41,10 +45,10 @@ public class Solution
                     {
                         string newLock = $"{prevString}{(currentInt + change + 10) % 10}{postString}";
 
-                        if (!seen.ContainsKey(newLock))
+                        if (!visited.Contains(newLock))
                         {
                             queue.Enqueue(newLock);
-                            seen[newLock] = true;
+                            visited.Add(newLock);
                         }
                     }
                 }
