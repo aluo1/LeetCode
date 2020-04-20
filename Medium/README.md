@@ -9,6 +9,8 @@ Solution for LeetCode Problems
 |                 [8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)                 |           C#, JavaScript            |
 |              [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)               |                 C#                  |
 |                              [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                               |                 C#                  |
+|          [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)           |                 C#                  |
+|         [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)         |                 C#                  |
 |       [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)       |                 C#                  |
 |              [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)              |           C#, JavaScript            |
 |                      [161. One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/)                      |                 C#                  |
