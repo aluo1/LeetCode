@@ -14,6 +14,7 @@ Solution for LeetCode Easy Problems
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
+|                                        [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                         |          C#          |
 |                                [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                |          C#          |
 |                 [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                  |          C#          |
 |                                   [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                    |          C#          |
