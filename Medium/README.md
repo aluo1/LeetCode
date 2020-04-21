@@ -28,3 +28,4 @@ Solution for LeetCode Problems
 |                          [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                          |                 C#                  |
 |                         [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                         |                 C#                  |
 | [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) |                 C#                  |
+|        [1248. Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)         |                 C#                  |
