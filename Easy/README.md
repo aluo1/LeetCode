@@ -9,22 +9,33 @@ Solution for LeetCode Easy Problems
 |                                            [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            | C, Java, Python, C#  |
 |                                  [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)                                   |          C#          |
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |         Java         |
+|                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
+|                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
+|                                        [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                         |          C#          |
 |                                [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                |          C#          |
 |                 [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                  |          C#          |
 |                                   [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                    |          C#          |
-|                       [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                        |    C#, JavaScript    |
+|                                       [155. Min Stack](https://leetcode-cn.com/problems/min-stack/)                                        |          C#          |
+|                       [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                        |          C#          |
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
+|                             [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                              |    C#, JavaScript    |
+|                    [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                     |          C#          |
+|                    [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                     |          C#          |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
 |                                       [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                        |          C#          |
+|                      [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                       |          C#          |
 |                                  [326. Power Of Three](https://leetcode-cn.com/problems/power-of-three/)                                   |          C#          |
+|                 [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                  |          C#          |
+|                   [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                    |          C#          |
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
 |                           [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                            |          C#          |
 |                                [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                 |          C#          |
 |                           [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                            |          C#          |
+|                                [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                 |          C#          |
 |                               [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                |          C#          |
 |                                      [824 - Goat Latin](https://leetcode-cn.com/problems/goat-latin/)                                      |          C#          |
 |                               [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                |          C#          |

@@ -1,9 +1,13 @@
 /**
  * 面试题13. 机器人的运动范围 (https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
  * Difficulty: Medium
- * 
- * Todo: 我忘记这要求的是能到达的格子了，只是所有符合要求的格子。等到我复习完DFS和BFS之后，再重写一遍。
  *
+ * @param {number} m
+ * @param {number} n
+ * @param {number} k
+ * @return {number}
+ */
+/**
  * @param {number} m
  * @param {number} n
  * @param {number} k
@@ -11,40 +15,36 @@
  */
 var movingCount = function (m, n, k) {
   const visitedCoordinates = [];
+  const queue = [[0, 0]];
 
-  for (let row = 0; row < m; row++) {
-    for (let column = 0; column < n; column++) {
-      for (let rowOffset = -1; rowOffset < 2; rowOffset++) {
-        for (let columnOffset = -1; columnOffset < 2; columnOffset++) {
-          if (Math.abs(rowOffset) === Math.abs(columnOffset)) {
-            continue;
-          }
+  while (queue.length > 0) {
+    const [headX, headY] = queue.shift();
 
-          const adjacentRow = row + rowOffset;
-          const adjacentColumn = column + columnOffset;
+    if (
+      !visitedCoordinates.some(
+        ([coordinateX, coordinateY]) =>
+          coordinateX === headX && coordinateY === headY
+      )
+    ) {
+      visitedCoordinates.push([headX, headY]);
 
-          if (
-            adjacentRow < 0 ||
-            adjacentRow >= m ||
-            adjacentColumn < 0 ||
-            adjacentColumn >= n ||
-            sumOfTheDigit(adjacentRow) + sumOfTheDigit(adjacentColumn) > k
-          ) {
-            continue;
-          }
-
-          const reachableCoordinate = [adjacentRow, adjacentColumn];
-          if (
-            !visitedCoordinates.find(
-              (visitedCoordinate) =>
-                visitedCoordinate[0] === adjacentRow &&
-                visitedCoordinate[1] === adjacentColumn
-            )
-          ) {
-            visitedCoordinates.push(reachableCoordinate);
-          }
+      [
+        [0, 1],
+        [1, 0],
+      ].forEach((direction) => {
+        const newX = headX + direction[0];
+        const newY = headY + direction[1];
+        if (
+          newX < m &&
+          newY < n &&
+          sumOfTheDigit(newX) + sumOfTheDigit(newY) <= k &&
+          !visitedCoordinates.some(
+            (visited) => visited[0] === newX && visited[1] === newY
+          )
+        ) {
+          queue.push([newX, newY]);
         }
-      }
+      });
     }
   }
 
@@ -52,8 +52,11 @@ var movingCount = function (m, n, k) {
 };
 
 var sumOfTheDigit = function (coordinateDigit) {
-  return `${coordinateDigit}`
-    .split("")
-    .map((digitChar) => parseInt(digitChar))
-    .reduce((accumulated, currentVal) => accumulated + currentVal, 0);
+  let sum = 0;
+  while (coordinateDigit) {
+    sum += coordinateDigit % 10;
+    coordinateDigit = Math.floor(coordinateDigit / 10);
+  }
+
+  return sum;
 };

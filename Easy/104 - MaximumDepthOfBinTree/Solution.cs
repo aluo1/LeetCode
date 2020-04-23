@@ -43,3 +43,33 @@ public class Solution
         return 1 + (leftBranchDepth > rightBranchDepth ? leftBranchDepth : rightBranchDepth);
     }
 }
+
+
+public class SolutionTopDown
+{
+    /// 执行用时: 112 ms, 在所有 C# 提交中击败了 72.83% 的用户
+    /// 内存消耗: 25.5 MB, 在所有 C# 提交中击败了 12.50% 的用户
+    private int answer = 0;
+
+    public int MaxDepth(TreeNode root)
+    {
+        this.FindMaxDepth(root, 1);
+        return answer;
+    }
+
+    private void FindMaxDepth(TreeNode root, int depth)
+    {
+        if (root == null)
+        {
+            return;
+        }
+
+        if (root.left == null && root.right == null)
+        {
+            this.answer = Math.Max(answer, depth);
+        }
+
+        FindMaxDepth(root.left, depth + 1);
+        FindMaxDepth(root.right, depth + 1);
+    }
+}
