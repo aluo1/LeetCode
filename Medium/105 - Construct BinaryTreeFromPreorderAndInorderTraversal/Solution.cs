@@ -9,8 +9,21 @@
  *     public TreeNode(int x) { val = x; }
  * }
  */
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int x) { val = x; }
+ * }
+ */
+
 public class Solution
 {
+    /// 执行用时: 108 ms, 在所有 C# 提交中击败了 97.48% 的用户
+    /// 内存消耗: 26.9 MB , 在所有 C# 提交中击败了 100.00% 的用户 
     private Dictionary<int, int> inorderIndex = new Dictionary<int, int>();
     private int[] preorderList;
 
@@ -28,29 +41,19 @@ public class Solution
 
         this.preorderList = preorder;
 
-        return BuildTree(0, preorder.Count() - 1, 0, inorder.Count() - 1, "root");
+        return BuildTree(0, preorder.Count() - 1, 0, inorder.Count() - 1);
     }
 
-    public TreeNode BuildTree(int preorderStart, int preorderEnd, int inorderStart, int inorderEnd, string tree)
+    public TreeNode BuildTree(int preorderStart, int preorderEnd, int inorderStart, int inorderEnd)
     {
-        Console.WriteLine($"\ntree = {tree}");
-        Console.WriteLine($"preorderStart = {preorderStart}");
-        Console.WriteLine($"preorderEnd = {preorderEnd}");
-        Console.WriteLine($"inorderStart = {inorderStart}");
-        Console.WriteLine($"inorderEnd = {inorderEnd}");
-
         if (preorderStart > preorderEnd || inorderStart > inorderEnd) { return null; }
 
         int rootValue = this.preorderList[preorderStart];
         TreeNode root = new TreeNode(rootValue);
         int rootValueIndexInInorder = this.inorderIndex[rootValue];
 
-
-        Console.WriteLine($"rootValue = {rootValue}");
-        Console.WriteLine($"rootValueIndexInInorder = {rootValueIndexInInorder}\n");
-
-        root.left = this.BuildTree(preorderStart + 1, preorderStart + rootValueIndexInInorder - inorderStart, inorderStart, rootValueIndexInInorder - 1, "left");
-        root.right = this.BuildTree(preorderEnd - (inorderEnd - rootValueIndexInInorder) + 1, preorderEnd, rootValueIndexInInorder + 1, inorderEnd, "right");
+        root.left = this.BuildTree(preorderStart + 1, preorderStart + rootValueIndexInInorder - inorderStart, inorderStart, rootValueIndexInInorder - 1);
+        root.right = this.BuildTree(preorderEnd - (inorderEnd - rootValueIndexInInorder) + 1, preorderEnd, rootValueIndexInInorder + 1, inorderEnd);
 
         return root;
     }
