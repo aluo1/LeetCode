@@ -33,6 +33,7 @@ Solution for LeetCode Easy Problems
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
 |                           [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                            |          C#          |
+|                  [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                   |          C#          |
 |                                [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                 |          C#          |
 |                           [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                            |          C#          |
 |                                [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                 |          C#          |
