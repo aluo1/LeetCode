@@ -29,6 +29,7 @@ Solution for LeetCode Problems
 |                                                [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)                                                |                 C#                  |
 |                                             [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                                             |                 C#                  |
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
+|                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
