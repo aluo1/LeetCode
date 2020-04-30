@@ -21,6 +21,7 @@ Solution for LeetCode Easy Problems
 |                                       [155. Min Stack](https://leetcode-cn.com/problems/min-stack/)                                        |          C#          |
 |                       [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                        |          C#          |
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
+|                              [202. Happy Number](https://leetcode-cn.com/problems/happy-number/submissions/)                               |          C#          |
 |                             [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                              |    C#, JavaScript    |
 |                    [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                     |          C#          |
 |                    [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                     |          C#          |
