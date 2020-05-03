@@ -25,6 +25,7 @@ Solution for LeetCode Easy Problems
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
 |                              [202. Happy Number](https://leetcode-cn.com/problems/happy-number/submissions/)                               |          C#          |
 |                             [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                              |    C#, JavaScript    |
+|                           [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                            |          C#          |
 |                    [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                     |          C#          |
 |                    [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                     |          C#          |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
