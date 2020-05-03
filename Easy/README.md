@@ -11,6 +11,7 @@ Solution for LeetCode Easy Problems
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |         Java         |
 |                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
+|                                 [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                 |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
