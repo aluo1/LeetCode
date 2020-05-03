@@ -11,6 +11,7 @@ Solution for LeetCode Easy Problems
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |         Java         |
 |                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
+|                                 [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                 |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
@@ -24,6 +25,7 @@ Solution for LeetCode Easy Problems
 |                                [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                 |    MS SQL Server     |
 |                              [202. Happy Number](https://leetcode-cn.com/problems/happy-number/submissions/)                               |          C#          |
 |                             [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                              |    C#, JavaScript    |
+|                           [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                            |          C#          |
 |                    [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                     |          C#          |
 |                    [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                     |          C#          |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
