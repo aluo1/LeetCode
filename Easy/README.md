@@ -13,6 +13,7 @@ Solution for LeetCode Easy Problems
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
 |                                 [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                 |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
+|                                       [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)                                        |          C#          |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |       Java, C#       |
 |                                        [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                         |          C#          |
