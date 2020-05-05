@@ -37,6 +37,7 @@ Solution for LeetCode Easy Problems
 |                   [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                    |          C#          |
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
+|                   [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)                    |          C#          |
 |                           [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                            |          C#          |
 |                  [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                   |          C#          |
 |                                [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                 |          C#          |
@@ -55,5 +56,6 @@ Solution for LeetCode Easy Problems
 |                              [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                              |        MSSQL         |
 |                    [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                    |          C#          |
 |                     [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                     |          C#          |
+|                       [1280. Students and Examinations](https://leetcode-cn.com/problems/students-and-examinations/)                       |        MSSQL         |
 |                      [1331. Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/)                      |          C#          |
 |                                      [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)                                      |  Python, JavaScript  |

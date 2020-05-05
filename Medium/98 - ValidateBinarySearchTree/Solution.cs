@@ -29,3 +29,33 @@ public class Solution
         return this.IsValidBST(root.left, min, root) && this.IsValidBST(root.right, root, max);
     }
 }
+
+public class SolutionUsingInorderTraverse
+{
+    // 执行用时: 108 ms, 在所有 C# 提交中击败了 95.45% 的用户
+    // 内存消耗: 26.6 MB, 在所有 C# 提交中击败了 33.33% 的用户
+    // Acknowledgement: This solution is borrowed from the [official solution](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/yan-zheng-er-cha-sou-suo-shu-by-leetcode-solution/)
+    public bool IsValidBST(TreeNode root)
+    {
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+
+        double inorder = -1.0 * double.MaxValue;
+        while (stack.Any() || root != null)
+        {
+            while (root != null)
+            {
+                stack.Push(root);
+                root = root.left;
+            }
+
+            root = stack.Pop();
+            // In inorder traverse, root value should always be bigger than the traversed value.
+            if (root.val <= inorder) { return false; }
+
+            inorder = root.val;
+            root = root.right;
+        }
+
+        return true;
+    }
+}

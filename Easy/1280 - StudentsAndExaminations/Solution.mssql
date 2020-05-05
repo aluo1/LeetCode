@@ -1,0 +1,11 @@
+/* Question 1280. Students and Examinations (https://leetcode-cn.com/problems/students-and-examinations/) */
+/* Write your T-SQL query statement below */
+/* 
+    执行用时: 1329 ms, 在所有 mssql 提交中击败了 45.45% 的用户
+    内存消耗: 0B, 在所有 mssql 提交中击败了 100.00% 的用户
+*/
+SELECT s.student_id, student_name, sub.subject_name, COUNT(e.subject_name) AS attended_exams FROM Students s 
+CROSS JOIN Subjects sub
+LEFT JOIN Examinations e ON sub.subject_name = e.subject_name AND s.student_id = e.student_id
+GROUP BY s.student_id, student_name, sub.subject_name
+ORDER BY s.student_id
