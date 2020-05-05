@@ -55,5 +55,6 @@ Solution for LeetCode Easy Problems
 |                              [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                              |        MSSQL         |
 |                    [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                    |          C#          |
 |                     [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                     |          C#          |
+|                       [1280. Students and Examinations](https://leetcode-cn.com/problems/students-and-examinations/)                       |        MSSQL         |
 |                      [1331. Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/)                      |          C#          |
 |                                      [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)                                      |  Python, JavaScript  |
