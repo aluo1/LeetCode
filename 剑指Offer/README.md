@@ -13,6 +13,7 @@
 |      [22. 链表中倒数第 k 个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)       |    Easy    |    C#, JavaScript    |
 | [40. 最小的 k 个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/minimum-increment-to-make-array-unique/) |    Easy    |          C#          |
 |       [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)        |    Easy    |    C#, JavaScript    |
+|      [54. 二叉搜索树的第 k 大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)       |    Easy    |         C#,          |
 |        [57. 和为 s 的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)         |    Easy    |    C#, JavaScript    |
 |                [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)                 |    Easy    |   C#， JavaScript    |
 |                 [59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)                  |   Medium   |          C#          |
