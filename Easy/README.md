@@ -38,6 +38,7 @@ Solution for LeetCode Easy Problems
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
 |                   [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)                    |          C#          |
+|                         [572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)                          |          C#          |
 |                           [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                            |          C#          |
 |                  [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                   |          C#          |
 |                                       [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                        |          C#          |
