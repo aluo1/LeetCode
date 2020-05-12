@@ -12,6 +12,7 @@ Solution for LeetCode Easy Problems
 |                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#          |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
 |                                 [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                 |          C#          |
+|                                           [69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                           |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
 |                                       [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)                                        |          C#          |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |          C#          |
