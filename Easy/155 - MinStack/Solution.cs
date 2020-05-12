@@ -49,6 +49,15 @@ public class MinStack
     }
 }
 
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.Push(x);
+ * obj.Pop();
+ * int param_3 = obj.Top();
+ * int param_4 = obj.GetMin();
+ */
+
 public class MinStackWithAsyncHelperStack
 {
     /// 执行用时 : 152 ms, 在所有 C# 提交中击败了 94.67% 的用户
@@ -98,11 +107,48 @@ public class MinStackWithAsyncHelperStack
     }
 }
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.Push(x);
- * obj.Pop();
- * int param_3 = obj.Top();
- * int param_4 = obj.GetMin();
- */
+public class MinStack
+{
+    // 执行用时: 152 ms, 在所有 C# 提交中击败了 94.62% 的用户
+    // 内存消耗: 34.9 MB, 在所有 C# 提交中击败了 100.00% 的用户
+    Stack<int> minStack;
+    Stack<int> minValStack;
+
+    /** initialize your data structure here. */
+    public MinStack()
+    {
+        this.minStack = new Stack<int>();
+        this.minValStack = new Stack<int>();
+    }
+
+    public void Push(int x)
+    {
+        this.minStack.Push(x);
+
+        if (!this.minValStack.Any() || this.minValStack.Peek() >= x)
+        {
+            this.minValStack.Push(x);
+        }
+    }
+
+    public void Pop()
+    {
+        int valueToRemove = this.minStack.Pop();
+        int currentMinValue = this.minValStack.Peek();
+
+        if (currentMinValue == valueToRemove)
+        {
+            this.minValStack.Pop();
+        }
+    }
+
+    public int Top()
+    {
+        return this.minStack.Peek();
+    }
+
+    public int GetMin()
+    {
+        return this.minValStack.Peek();
+    }
+}
