@@ -6,7 +6,7 @@ Solution for LeetCode Problems
 
 |                                                                            Problems                                                                             |        Language Implemented         |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-|              [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)              |                 C#                  |
+|              [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)              |           C#, JavaScript            |
 |                                     [8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)                                     |           C#, JavaScript            |
 |                                  [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)                                   |                 C#                  |
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |                 C#                  |
@@ -34,6 +34,7 @@ Solution for LeetCode Problems
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
+|                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |                 C#                  |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
