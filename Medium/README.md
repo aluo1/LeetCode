@@ -34,7 +34,7 @@ Solution for LeetCode Problems
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
-|                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |                 C#                  |
+|                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |                 C#                  |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
