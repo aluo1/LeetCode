@@ -6,6 +6,7 @@ Solution for LeetCode Difficult Problems
 
 |                                                       Problems                                                        | Language Implemented |
 | :-------------------------------------------------------------------------------------------------------------------: | :------------------: |
+|            [4. Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)            |    JavaScript, C#    |
 |                  [23. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)                   |          C#          |
 |                   [42. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)                    |    JavaScript, C#    |
 |                          [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)                           |          C#          |
