@@ -37,6 +37,7 @@ Solution for LeetCode Easy Problems
 |                 [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                  |          C#          |
 |                   [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                    |          C#          |
 |                  [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                   |          C#          |
+|        [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)         |    JavaScript, C#    |
 |                         [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                          |          C#          |
 |                   [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)                    |          C#          |
 |                         [572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)                          |          C#          |
