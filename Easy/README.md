@@ -12,6 +12,7 @@ Solution for LeetCode Easy Problems
 |                                [9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)                                 |    C#, TypeScript    |
 |                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |    C#, JavaScript    |
 |                           [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           |          C#          |
+|              [26. Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)              |    C#, TypeScript    |
 |                                 [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                 |          C#          |
 |                                           [69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                           |          C#          |
 |               [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)               |          C#          |
