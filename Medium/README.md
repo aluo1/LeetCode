@@ -35,6 +35,7 @@ Solution for LeetCode Problems
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
+|                                           [Question 529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                            |           C#, TypeScript            |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
