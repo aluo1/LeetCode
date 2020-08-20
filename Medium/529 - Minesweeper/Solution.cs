@@ -86,3 +86,83 @@ public class Solution
         return board;
     }
 }
+
+/// <summary>
+/// 执行用时：476 ms, 在所有 C# 提交中击败了 26.09% 的用户
+/// 内存消耗：35.5 MB, 在所有 C# 提交中击败了 38.46% 的用户
+/// </summary>
+public class SolutionBFS
+{
+    public char[][] UpdateBoard(char[][] board, int[] click)
+    {
+        int x = click[0];
+        int y = click[1];
+
+        char clickedSquare = board[x][y];
+
+        // Handle the situation if clicked square is an unrevealed mine.
+        if (clickedSquare.Equals(UNREVEALED_MINE))
+        {
+            board[x][y] = REVEALED_MINE;
+            return board;
+        }
+
+        Queue<(int, int)> queue = new Queue<(int, int)>();
+        queue.Enqueue((x, y));
+
+        while (queue.Any())
+        {
+            (int currentX, int currentY) = queue.Dequeue();
+
+            int adjacentMinesCount = 0;
+            List<(int, int)> adjacentUnrevealedSquares = new List<(int, int)>();
+
+            for (int xDirection = -1; xDirection <= 1; xDirection++)
+            {
+                for (int yDirection = -1; yDirection <= 1; yDirection++)
+                {
+                    if (xDirection == yDirection && xDirection == 0) { continue; }
+
+                    int newX = currentX + xDirection;
+                    int newY = currentY + yDirection;
+
+
+                    if (newX >= 0 && newX < board.Length &&
+                        newY >= 0 && newY < board[0].Length &&
+                        UNREVEALED_SQUARES.Contains(board[newX][newY]) &&
+                        !queue.Contains((newX, newY)))
+                    {
+                        adjacentUnrevealedSquares.Add((newX, newY));
+
+                        if (MINE_SQUARES.Contains(board[newX][newY]))
+                        {
+                            adjacentMinesCount++;
+                        }
+                    }
+                }
+            }
+
+
+            if (!MINE_SQUARES.Contains(board[currentX][currentY]))
+            {
+                if (adjacentMinesCount == 0)
+                {
+                    board[currentX][currentY] = REVEALED_BLANK;
+                    foreach ((int adjacentX, int adjacentY) in adjacentUnrevealedSquares)
+                    {
+                        if (board[adjacentX][adjacentY].Equals(UNREVEALED_EMPTY))
+                        {
+                            queue.Enqueue((adjacentX, adjacentY));
+                        }
+                    }
+                }
+                else
+                {
+                    board[currentX][currentY] = $"{adjacentMinesCount}"[0];
+                }
+            }
+        }
+
+        return board;
+    }
+}
