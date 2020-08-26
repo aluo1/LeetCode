@@ -9,6 +9,7 @@ Solution for LeetCode Problems
 |              [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)              |           C#, JavaScript            |
 |                                     [8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)                                     |           C#, JavaScript            |
 |                                  [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)                                   |                 C#                  |
+|                  [Question 17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)                  |             TypeScript              |
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |                 C#                  |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
 |                              [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                               |                 C#                  |
