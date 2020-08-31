@@ -22,6 +22,7 @@ Solution for LeetCode Problems
 |                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
 |                                  [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                                  |           C#, JavaScript            |
 |                                   [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)                                   |           C#, JavaScript            |
+|                       [153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)                       |           C#, TypeScript            |
 |                                          [161. One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/)                                          |                 C#                  |
 |                                [173. Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)                                |                 C#                  |
 |                                [199. Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)                                |                 C#                  |
