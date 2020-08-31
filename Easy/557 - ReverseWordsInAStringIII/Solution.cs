@@ -14,3 +14,33 @@ public class Solution
         }));
     }
 }
+
+/// <summary>
+/// 执行用时：264 ms, 在所有 C# 提交中击败了 13.68% 的用户
+/// 内存消耗：42.9 MB, 在所有 C# 提交中击败了 12.50% 的用户
+/// </summary>
+public class SolutionTwo
+{
+    public string ReverseWords(string s)
+    {
+        string reversedWords = "";
+        string[] words = s.Split(" ");
+        int wordsCount = words.Length;
+
+        for (int i = 0; i < wordsCount; i++)
+        {
+            string word = words[i];
+            char[] charArray = word.ToCharArray();
+            Array.Reverse(charArray);
+            string reversedWord = string.Join("", charArray);
+
+            reversedWords += reversedWord;
+            if (i != wordsCount - 1)
+            {
+                reversedWords += " ";
+            }
+        }
+
+        return reversedWords;
+    }
+}

@@ -44,7 +44,7 @@ Solution for LeetCode Problems
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |                 C#                  |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
 |                                              [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                                              |                 C#                  |
-|                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |                 C#                  |
+|                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |           C#, TypeScript            |
 |                     [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)                     |                 C#                  |
 |                                     [1014. Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)                                      |           C#, TypeScript            |
 |                            [1248. Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)                             |                 C#                  |
