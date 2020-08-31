@@ -32,3 +32,36 @@ public class Solution
         return unlockedRooms.Count() == rooms.Count();
     }
 }
+
+/// <summary>
+/// 执行用时：136 ms, 在所有 C# 提交中击败了 37.04% 的用户
+/// 内存消耗：26.6 MB, 在所有 C# 提交中击败了 14.29% 的用户
+/// </summary>
+public class SolutionTwo
+{
+    public bool CanVisitAllRooms(IList<IList<int>> rooms)
+    {
+        // Initialize the keys queue with first room's keys.
+        Queue<int> keys = new Queue<int>(rooms.First());
+        // Count number of unlocked rooms, set to 1 by default, as room 0 is unlocked.
+        Dictionary<int, bool> unlockedRooms = new Dictionary<int, bool> { { 0, true } };
+
+        while (keys.Any())
+        {
+            int keyOfRoom = keys.Dequeue();
+            if (unlockedRooms.ContainsKey(keyOfRoom)) { continue; }
+
+            foreach (int key in rooms.ElementAt(keyOfRoom))
+            {
+                if (!unlockedRooms.ContainsKey(key))
+                {
+                    keys.Enqueue(key);
+                }
+            }
+
+            unlockedRooms[keyOfRoom] = true;
+        }
+
+        return unlockedRooms.Count() == rooms.Count();
+    }
+}
