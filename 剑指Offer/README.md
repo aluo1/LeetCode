@@ -11,6 +11,7 @@
 |            [06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)            |    Easy    |       C#, JavaScript       |
 |         [11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/s)         |    Easy    |         TypeScript         |
 |              [13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)              |   Medium   |       C#, JavaScript       |
+|       [17. 打印从 1 到最大的 n 位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)       |    Easy    |         TypeScript         |
 |      [22. 链表中倒数第 k 个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)       |    Easy    |       C#, JavaScript       |
 | [40. 最小的 k 个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/minimum-increment-to-make-array-unique/) |    Easy    |             C#             |
 |       [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)        |    Easy    |       C#, JavaScript       |
