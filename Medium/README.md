@@ -17,6 +17,7 @@ Solution for LeetCode Problems
 |                                [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)                                 |                 C#                  |
 |  [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |                 C#                  |
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |                 C#                  |
+|                                                [113. Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)                                                |           C#, TypeScript            |
 |                [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)                |                 C#                  |
 |             [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)             |                 C#                  |
 |                             [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                             |                 C#                  |
