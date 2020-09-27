@@ -33,6 +33,7 @@ Solution for LeetCode Easy Problems
 |                           [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                            |          C#          |
 |                    [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                     |          C#          |
 |                    [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                     |          C#          |
+|  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)   |          C#          |
 |                    [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                     |          C#          |
 |                                       [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                        |          C#          |
 |                      [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                       |          C#          |
