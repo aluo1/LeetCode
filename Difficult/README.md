@@ -12,7 +12,6 @@ Solution for LeetCode Difficult Problems
 |                           [42. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)                            |    JavaScript, C#    |
 |                                  [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)                                   |          C#          |
 |                                 [72. Edit Distance](https://leetcode-cn.com/problems/edit-distance/)                                  |    JavaScript, C#    |
-|               [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)               |          C#          |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/) |      TypeScript      |
 |         [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)         |          C#          |
 |                                     [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                     |          C#          |
