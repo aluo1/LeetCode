@@ -46,3 +46,42 @@ function insertIntoTree(root: TreeNode, val: number): void {
     }
   }
 }
+
+/**
+ * 执行用时：144 ms, 在所有 typescript 提交中击败了 52.00% 的用户
+ * 内存消耗：45.6 MB, 在所有 typescript 提交中击败了 17.65% 的用户
+ *
+ * Acknowledgement: This solution borrows idea from the [official solution](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/solution/er-cha-sou-suo-shu-zhong-de-cha-ru-cao-zuo-by-le-3/).
+ *
+ * @param {TreeNode} root
+ * @param {number} val
+ * @returns {void}
+ */
+function insertIntoBSTUsingIteration(root: TreeNode, val: number): void {
+  if (!root) {
+    return new TreeNode(val);
+  }
+
+  const rootPointer: TreeNode = root;
+
+  while (root != null) {
+    if (root.val > val) {
+      if (!root.left) {
+        root.left = new TreeNode(val);
+        break;
+      } else {
+        root = root.left;
+      }
+    } else {
+      // root.val < val
+      if (!root.right) {
+        root.right = new TreeNode(val);
+        break;
+      } else {
+        root = root.right;
+      }
+    }
+  }
+
+  return rootPointer;
+}
