@@ -20,7 +20,8 @@ Solution for LeetCode Problems
 |                                                [113. Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)                                                |           C#, TypeScript            |
 |                [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)                |           C#, JavaScript            |
 |             [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)             |           C#, JavaScript            |
-|                             [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                             |                 C#                  |
+|                             [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                             |           C#, TypeScript            |
+|                            [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)                            |           C#, TypeScript            |
 |                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
 |                                  [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                                  |           C#, JavaScript            |
 |                                   [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)                                   |           C#, JavaScript            |
@@ -45,7 +46,7 @@ Solution for LeetCode Problems
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
-|                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |                 C#                  |
+|                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |           C#, TypeScript            |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
 |                                              [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                                              |                 C#                  |
 |                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |           C#, TypeScript            |
