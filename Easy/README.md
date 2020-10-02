@@ -53,7 +53,7 @@ Solution for LeetCode Easy Problems
 |                                [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                 |          C#          |
 |                           [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                            |          C#          |
 |                                [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                 |   C#， TypeScript    |
-|                               [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                |          C#          |
+|                               [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                |    C#, TypeScript    |
 |                                      [824 - Goat Latin](https://leetcode-cn.com/problems/goat-latin/)                                      |          C#          |
 |                               [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                |          C#          |
 |                               [836. Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)                                |    C#, JavaScript    |
