@@ -7,7 +7,6 @@ Solution for LeetCode Easy Problems
 |                                                                  Problems                                                                  |       Language Implemented       |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------: |
 |                                            [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            | C, Java, Python, C#， TypeScript |
-|                                  [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)                                   |                C#                |
 |                                  [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)                                   |               Java               |
 |                                [9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)                                 |          C#, TypeScript          |
 |                                [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                |          C#, JavaScript          |
