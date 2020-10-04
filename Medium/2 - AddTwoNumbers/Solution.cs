@@ -1,5 +1,4 @@
 /// Question 2. Add Two Numbers (https://leetcode-cn.com/problems/add-two-numbers/)
-/// Difficulty: Easy
 /// 
 /// 执行用时 : 136 ms, 在所有 C# 提交中击败了 36.34% 的用户
 /// 内存消耗 : 27.6 MB, 在所有 C# 提交中击败了 6.11% 的用户
