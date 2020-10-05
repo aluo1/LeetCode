@@ -10,7 +10,8 @@ Solution for LeetCode Problems
 |              [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)              |           C#, JavaScript            |
 |                                     [8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)                                     |           C#, JavaScript            |
 |                                  [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)                                   |                 C#                  |
-|                  [Question 17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)                  |             TypeScript              |
+|                      [17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)                       |             TypeScript              |
+|                                                         [4Sum](https://leetcode-cn.com/problems/4sum/)                                                          |             TypeScript              |
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
