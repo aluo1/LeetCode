@@ -15,4 +15,5 @@ Solution for LeetCode Difficult Problems
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/) |      TypeScript      |
 |         [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)         |          C#          |
 |                                     [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                     |          C#          |
+|                      [834. Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                      |          C#          |
 |                       [1095. Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)                        |          C#          |
