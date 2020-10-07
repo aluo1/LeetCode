@@ -15,6 +15,7 @@ Solution for LeetCode Problems
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
+|                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
 |                              [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                               |                 C#                  |
 |                                [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)                                 |                 C#                  |
 |  [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |                 C#                  |
