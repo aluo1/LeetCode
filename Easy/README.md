@@ -18,11 +18,12 @@ Solution for LeetCode Easy Problems
 |                                       [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)                                        |                C#                |
 |                                  [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                   |                C#                |
 |                      [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                      |             Java, C#             |
-|                        [Question 110. Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)                        |       C#, TypeScript, Java       |
+|                            [110. Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)                             |       C#, TypeScript, Java       |
 |                                        [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                         |                C#                |
 |                                [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                |                C#                |
 |                 [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                  |                C#                |
 |                                   [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                    |          C#, JavaScript          |
+|                               [141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)                                |          C#, JavaScript          |
 |                                       [155. Min Stack](https://leetcode-cn.com/problems/min-stack/)                                        |                C#                |
 |              [170. Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/)               |                C#                |
 |                       [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                        |                C#                |
