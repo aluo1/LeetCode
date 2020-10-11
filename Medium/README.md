@@ -23,6 +23,7 @@ Solution for LeetCode Problems
 |                                                [113. Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)                                                |           C#, TypeScript            |
 |                [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)                |           C#, JavaScript            |
 |             [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)             |           C#, JavaScript            |
+|                                       [142. Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                                       |             TypeScript              |
 |                             [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                             |           C#, TypeScript            |
 |                            [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)                            |           C#, TypeScript            |
 |                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
@@ -43,6 +44,7 @@ Solution for LeetCode Problems
 |                                    [347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                    |           TypeScript, C#            |
 |                                             [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                                             |                 C#                  |
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
+|                                 [416. Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)                                 |             TypeScript              |
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
 |                                           [Question 529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                            |           C#, TypeScript            |
