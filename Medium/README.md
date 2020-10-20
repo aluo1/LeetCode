@@ -25,6 +25,7 @@ Solution for LeetCode Problems
 |                [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)                |     C#, JavaScript, TypeScript      |
 |             [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)             |           C#, JavaScript            |
 |                                       [142. Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                                       |             TypeScript              |
+|                                               [143. Reorder List](https://leetcode-cn.com/problems/reorder-list/)                                               |             TypeScript              |
 |                             [144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                             |           C#, TypeScript            |
 |                            [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)                            |           C#, TypeScript            |
 |                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
