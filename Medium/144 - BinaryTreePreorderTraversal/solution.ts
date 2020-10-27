@@ -12,6 +12,17 @@
  * }
  */
 
+class TreeNode {
+  val: number;
+  left: TreeNode | null;
+  right: TreeNode | null;
+  constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+    this.val = val === undefined ? 0 : val;
+    this.left = left === undefined ? null : left;
+    this.right = right === undefined ? null : right;
+  }
+}
+
 /**
  * 执行用时：88 ms, 在所有 typescript 提交中击败了 26.32% 的用户
  * 内存消耗：39.6 MB, 在所有 typescript 提交中击败了 5.68% 的用户
@@ -30,8 +41,8 @@ function preorderTraversal(root: TreeNode | null): number[] {
 }
 
 /**
- * 执行用时：96 ms, 在所有 typescript 提交中击败了 9.77% 的用户
- * 内存消耗：39.6 MB, 在所有 typescript 提交中击败了 5.68% 的用户
+ * 执行用时：84 ms, 在所有 typescript 提交中击败了 55.75% 的用户
+ * 内存消耗：40.3 MB, 在所有 typescript 提交中击败了 5.56% 的用户
  *
  * @param {(TreeNode | null)} root
  * @returns {number[]}
