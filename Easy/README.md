@@ -74,6 +74,7 @@ Solution for LeetCode Easy Problems
 |                                   [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                                   |              MSSQL               |
 |                         [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                         |                C#                |
 |                          [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                          |                C#                |
+|                   [1207. Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/submissions/)                   |          C#, TypeScript          |
 |                            [1280. Students and Examinations](https://leetcode-cn.com/problems/students-and-examinations/)                            |              MSSQL               |
 |                           [1331. Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/)                           |                C#                |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |                C#                |
