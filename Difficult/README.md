@@ -12,6 +12,7 @@ Solution for LeetCode Difficult Problems
 |                             [42. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)                              |    JavaScript, C#    |
 |                                    [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)                                     |          C#          |
 |                                   [72. Edit Distance](https://leetcode-cn.com/problems/edit-distance/)                                    |    JavaScript, C#    |
+|                                   [140. Word Break II](https://leetcode-cn.com/problems/word-break-ii/)                                   |          C#          |
 |   [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)   |      TypeScript      |
 |           [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)           |          C#          |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |          C#          |
