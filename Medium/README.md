@@ -61,6 +61,7 @@ Solution for LeetCode Problems
 |                                           [763. Partition Labels](https://leetcode-cn.com/problems/partition-labels/)                                           |           C#, TypeScript            |
 |                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |           C#, TypeScript            |
 |                     [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)                     |                 C#                  |
+|                                 [973. K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)                                 |           C#, TypeScript            |
 |                                     [1014. Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)                                      |           C#, TypeScript            |
 |                                           [1024. Video Stitching](https://leetcode-cn.com/problems/video-stitching/)                                            |           C#, TypeScript            |
 |                            [1248. Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)                             |                 C#                  |
