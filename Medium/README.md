@@ -13,6 +13,7 @@ Solution for LeetCode Problems
 |                      [17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)                       |             TypeScript              |
 |                                                       [18. 4Sum](https://leetcode-cn.com/problems/4sum/)                                                        |             TypeScript              |
 |                                        [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)                                         |             TypeScript              |
+|                                           [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)                                            |           C#, TypeScript            |
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
