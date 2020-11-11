@@ -19,5 +19,6 @@ Solution for LeetCode Difficult Problems
 |                              [327. Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)                              |          C#          |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |          C#          |
 |                                       [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                       |          C#          |
+|                                   [514. Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)                                   |          C#          |
 |                        [834. Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                        |          C#          |
 |                         [1095. Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)                          |          C#          |
