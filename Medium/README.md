@@ -50,6 +50,7 @@ Solution for LeetCode Problems
 |                                    [347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                    |           TypeScript, C#            |
 |                                             [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                                             |                 C#                  |
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
+|                                            [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)                                            |                 C#                  |
 |                                 [416. Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)                                 |             TypeScript              |
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
