@@ -73,6 +73,7 @@ Solution for LeetCode Easy Problems
 |                            [977. Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)                             |          C#, TypeScript          |
 |                               [1002. Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/)                               |            TypeScript            |
 |      [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)      |                C#                |
+|                       [1030. Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)                       |                C#                |
 |                                         [1064 - Fixed Point](https://leetcode-cn.com/problems/fixed-point/)                                          |                C#                |
 |                   [1071. Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)                   |                C#                |
 |                                    [1083. Sales Analysis II](https://leetcode-cn.com/problems/sales-analysis-ii/)                                    |           MySQL, MSSQL           |
