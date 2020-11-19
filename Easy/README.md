@@ -37,6 +37,7 @@ Solution for LeetCode Easy Problems
 |                               [234. Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)                                |          C#, TypeScript          |
 |       [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)        |                C#                |
 |                         [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                          |                C#                |
+|                                          [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)                                           |          C#, TypeScript          |
 |                                            [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                             |                C#                |
 |                           [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                            |                C#                |
 |                                       [326. Power Of Three](https://leetcode-cn.com/problems/power-of-three/)                                        |                C#                |
