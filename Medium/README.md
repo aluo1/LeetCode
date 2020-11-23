@@ -56,8 +56,9 @@ Solution for LeetCode Problems
 |                                            [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)                                            |                 C#                  |
 |                                 [416. Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)                                 |             TypeScript              |
 |                                       [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)                                       |                 C#                  |
+|                 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)                 |                 C#                  |
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
-|                                           [Question 529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                            |           C#, TypeScript            |
+|                                                [529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                                |           C#, TypeScript            |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
