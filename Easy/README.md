@@ -72,6 +72,7 @@ Solution for LeetCode Easy Problems
 |                                    [925. Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/)                                     |            TypeScript            |
 |                                     [938. Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)                                      |                C#                |
 |                                 [941. Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/)                                  |          C#, TypeScript          |
+|                           [976. Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)                            |          C#, TypeScript          |
 |                            [977. Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)                             |          C#, TypeScript          |
 |                               [1002. Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/)                               |            TypeScript            |
 |      [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)      |                C#                |
