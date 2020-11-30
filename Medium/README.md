@@ -69,6 +69,7 @@ Solution for LeetCode Problems
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
 |                                              [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                                              |                 C#                  |
 |                                           [763. Partition Labels](https://leetcode-cn.com/problems/partition-labels/)                                           |           C#, TypeScript            |
+|                                          [767. Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)                                          |                 C#                  |
 |                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |           C#, TypeScript            |
 |                     [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)                     |                 C#                  |
 |                                 [973. K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)                                 |           C#, TypeScript            |
