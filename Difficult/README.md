@@ -17,6 +17,7 @@ Solution for LeetCode Difficult Problems
 |   [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)   |      TypeScript      |
 |                                     [164. Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)                                     |          C#          |
 |           [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)           |          C#          |
+|                           [321. Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/)                           |          C#          |
 |                              [327. Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)                              |          C#          |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |          C#          |
 |                                       [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                       |          C#          |
