@@ -65,7 +65,9 @@ Solution for LeetCode Problems
 |                                                [529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                                |           C#, TypeScript            |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
+|                                             [621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)                                             |    C# (Prodived Sample Solution)    |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
+|                  [659. Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)                  |    C# (Prodived Sample Solution)    |
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |           C#, TypeScript            |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
 |                                              [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                                              |                 C#                  |
