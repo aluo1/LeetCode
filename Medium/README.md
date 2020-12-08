@@ -74,6 +74,7 @@ Solution for LeetCode Problems
 |                                           [763. Partition Labels](https://leetcode-cn.com/problems/partition-labels/)                                           |           C#, TypeScript            |
 |                                          [767. Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)                                          |                 C#                  |
 |                                             [841. Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)                                             |           C#, TypeScript            |
+|                        [842. Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)                        |                 C#                  |
 |                     [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)                     |                 C#                  |
 |                                 [973. K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)                                 |           C#, TypeScript            |
 |                                     [1014. Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)                                      |           C#, TypeScript            |
