@@ -20,7 +20,7 @@ Solution for LeetCode Easy Problems
 |                           [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                           |             Java, C#             |
 |                                 [110. Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)                                  |       C#, TypeScript, Java       |
 |                                             [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                              |                C#                |
-|                                     [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                     |                C#                |
+|                                     [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                     |          C#, TypeScript          |
 |                      [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                       |                C#                |
 |                   [122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)                    |                C#                |
 |                                        [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                         |          C#, JavaScript          |
@@ -67,6 +67,7 @@ Solution for LeetCode Easy Problems
 |                                    [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                     |                C#                |
 |                                    [836. Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)                                     |          C#, JavaScript          |
 |                             [844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)                              |            TypeScript            |
+|                                      [860. Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/)                                       |          C#, TypeScript          |
 |                                     [867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)                                      |                C#                |
 |                            [876. Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)                             |                C#                |
 |                              [922. Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)                               |          C#, TypeScript          |
