@@ -55,6 +55,7 @@ Solution for LeetCode Problems
 |                                       [328. Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)                                       |           C#, TypeScript            |
 |                                    [347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                    |           TypeScript, C#            |
 |                                             [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                                             |                 C#                  |
+|                                         [376. Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)                                         |                 C#                  |
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
 |                                            [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)                                            |                 C#                  |
 |                             [406. Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)                             |                 C#                  |
@@ -68,6 +69,7 @@ Solution for LeetCode Problems
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                             [621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)                                             |    C# (Prodived Sample Solution)    |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
+|                                               [649. Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/)                                               |    C# (Prodived Sample Solution)    |
 |                  [659. Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)                  |    C# (Prodived Sample Solution)    |
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |           C#, TypeScript            |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
