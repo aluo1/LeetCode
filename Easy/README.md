@@ -32,6 +32,7 @@ Solution for LeetCode Easy Problems
 |                                   [202. Happy Number](https://leetcode-cn.com/problems/happy-number/submissions/)                                    |                C#                |
 |                                         [204. Count Primes](https://leetcode-cn.com/problems/count-primes/)                                          |          C#, TypeScript          |
 |                                  [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                                   |          C#, JavaScript          |
+|                                   [217. Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)                                    |          C#, TypeScript          |
 |                                [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                                 |                C#                |
 |                         [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                          |                C#                |
 |                         [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                          |                C#                |
