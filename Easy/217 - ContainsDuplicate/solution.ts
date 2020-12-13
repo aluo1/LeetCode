@@ -9,4 +9,5 @@
  */
 function containsDuplicate(nums: number[]): boolean {
   return nums.length !== [...new Set(nums)].length;
+  // return nums.length !== new Set(nums).size; // We do not need to convert set to array in this case.
 }
