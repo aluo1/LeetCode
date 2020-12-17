@@ -72,6 +72,7 @@ Solution for LeetCode Problems
 |                                               [649. Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/)                                               |    C# (Prodived Sample Solution)    |
 |                  [659. Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)                  |    C# (Prodived Sample Solution)    |
 |                           [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)                           |           C#, TypeScript            |
+|       [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)       |           C#, TypeScript            |
 |                                 [738. Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/)                                 |                 C#                  |
 |                                         [739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)                                         |                 C#                  |
 |                                              [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/)                                              |                 C#                  |
