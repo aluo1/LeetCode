@@ -48,6 +48,7 @@ Solution for LeetCode Easy Problems
 |                      [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                       |                C#                |
 |                           [349. Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)                            |          C#, TypeScript          |
 |                        [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                         |                C#                |
+|                                  [389. Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)                                   |         C# , TypeScript          |
 |                       [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                        |                C#                |
 |             [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)              |          JavaScript, C#          |
 |                                     [463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/)                                      |            TypeScript            |
