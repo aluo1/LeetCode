@@ -15,6 +15,7 @@ Solution for LeetCode Problems
 |                                        [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)                                         |             TypeScript              |
 |                                           [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)                                            |           C#, TypeScript            |
 |    [34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |           C#, TypeScript            |
+|                                               [48. Rotate Image](https://leetcode-cn.com/problems/rotate-image/)                                                |           C#, TypeScript            |
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
