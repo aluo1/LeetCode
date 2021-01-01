@@ -60,6 +60,7 @@ Solution for LeetCode Easy Problems
 |                              [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                               |                C#                |
 |                        [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)                         |          C#, TypeScript          |
 |                              [572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)                               |                C#                |
+|                                    [605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)                                     |          C#, TypeScript          |
 |                                [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                                 |                C#                |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
