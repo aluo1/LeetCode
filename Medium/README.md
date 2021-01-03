@@ -21,6 +21,7 @@ Solution for LeetCode Problems
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
 |                                               [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)                                                |                 C#                  |
 |                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
+|                                             [86. Partition List](https://leetcode-cn.com/problems/partition-list/)                                              |           C#, TypeScript            |
 |                              [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                               |                 C#                  |
 |                                [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)                                 |                 C#                  |
 |                   [103. Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)                   |                 C#                  |
