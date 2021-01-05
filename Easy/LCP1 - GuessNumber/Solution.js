@@ -10,7 +10,7 @@
  * @param {number[]} answer
  * @return {number}
  */
-var game = function(guess, answer) {
+var game = function (guess, answer) {
   let correct_count = 0;
   for (i = 0; i < guess.length; i++) {
     if (guess[i] === answer[i]) {
@@ -19,4 +19,3 @@ var game = function(guess, answer) {
   }
   return correct_count;
 };
-

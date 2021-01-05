@@ -71,6 +71,7 @@ Solution for LeetCode Easy Problems
 |                             [746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)                              |          C#, TypeScript          |
 |                                    [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                     |          C#, TypeScript          |
 |                                           [824 - Goat Latin](https://leetcode-cn.com/problems/goat-latin/)                                           |                C#                |
+|                            [830. Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/)                             |          C#, TypeScript          |
 |                                    [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                     |                C#                |
 |                                    [836. Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)                                     |          C#, JavaScript          |
 |                             [844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)                              |            TypeScript            |
