@@ -71,6 +71,7 @@ Solution for LeetCode Problems
 |                                                 [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)                                                 |                 C#                  |
 |                                                [529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)                                                |           C#, TypeScript            |
 |                                                  [542. 01 Matrix](https://leetcode-cn.com/problems/01-matrix/)                                                  |                 C#                  |
+|                                        [547. Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)                                        |           C#, TypeScript            |
 |                                      [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                                      |           C#, JavaScript            |
 |                                             [621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)                                             |    C# (Prodived Sample Solution)    |
 |                                      [622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)                                      | C#, Java (Prodived Sample Solution) |
