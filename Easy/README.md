@@ -35,6 +35,8 @@ Solution for LeetCode Easy Problems
 |                                   [217. Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)                                    |          C#, TypeScript          |
 |                                [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                                 |                C#                |
 |                         [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)                          |                C#                |
+|                                [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)                                 |                C#                |
+|                                       [228. Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/)                                        |          C#, TypeScript          |
 |                         [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)                          |                C#                |
 |                               [234. Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)                                |          C#, TypeScript          |
 |       [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)        |                C#                |
