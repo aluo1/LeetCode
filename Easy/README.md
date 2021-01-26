@@ -96,6 +96,7 @@ Solution for LeetCode Easy Problems
 |                                   [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                                   |              MSSQL               |
 |                         [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                         |                C#                |
 |                                  [1122. Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/)                                  |          C#, TypeScript          |
+|                    [1128. Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)                    |          C#, TypeScript          |
 |                          [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                          |                C#                |
 |                   [1207. Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/submissions/)                   |          C#, TypeScript          |
 |                            [1280. Students and Examinations](https://leetcode-cn.com/problems/students-and-examinations/)                            |              MSSQL               |
