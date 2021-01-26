@@ -88,6 +88,7 @@ Solution for LeetCode Easy Problems
 |                            [977. Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)                             |          C#, TypeScript          |
 |                               [1002. Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/)                               |            TypeScript            |
 |      [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)      |                C#                |
+|                         [1018. Binary Prefix Divisible By 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)                         |          C#, TypeScript          |
 |                       [1030. Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)                       |                C#                |
 |                                         [1064 - Fixed Point](https://leetcode-cn.com/problems/fixed-point/)                                          |                C#                |
 |                   [1071. Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)                   |                C#                |
@@ -95,6 +96,7 @@ Solution for LeetCode Easy Problems
 |                                   [1084. Sales Analysis III](https://leetcode-cn.com/problems/sales-analysis-iii/)                                   |              MSSQL               |
 |                         [1103. Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)                         |                C#                |
 |                                  [1122. Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/)                                  |          C#, TypeScript          |
+|                    [1128. Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)                    |          C#, TypeScript          |
 |                          [1200. Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)                          |                C#                |
 |                   [1207. Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/submissions/)                   |          C#, TypeScript          |
 |                            [1280. Students and Examinations](https://leetcode-cn.com/problems/students-and-examinations/)                            |              MSSQL               |
