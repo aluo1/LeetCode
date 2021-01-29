@@ -67,7 +67,7 @@ Solution for LeetCode Easy Problems
 |                                [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                                 |                C#                |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
-|                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |                C#                |
+|                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |          C#, TypeScript          |
 |                                [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                 |                C#                |
 |                                     [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                      |          C#, TypeScript          |
 |                             [746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)                              |          C#, TypeScript          |
