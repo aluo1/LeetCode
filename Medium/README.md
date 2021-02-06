@@ -91,5 +91,6 @@ Solution for LeetCode Problems
 |                                     [1014. Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)                                      |           C#, TypeScript            |
 |                                           [1024. Video Stitching](https://leetcode-cn.com/problems/video-stitching/)                                            |           C#, TypeScript            |
 |                            [1248. Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)                             |                 C#                  |
+|                  [1423. Maximum Points You Can Obtain from Cards](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)                   |                 C#                  |
 |                                  [1631. Path With Minimum Effort](https://leetcode-cn.com/problems/path-with-minimum-effort/)                                   |                 C#                  |
 |                                                 [LCP 19. 秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/)                                                  |             TypeScript              |
