@@ -15,6 +15,7 @@ Solution for LeetCode Easy Problems
 |                                      [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)                                      |                C#                |
 |                                                [69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                |                C#                |
 |                    [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)                    |                C#                |
+|                                    [88. Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)                                    |          C#, TypeScript          |
 |                                            [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)                                             |                C#                |
 |                                       [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)                                        |                C#                |
 |                           [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                           |             Java, C#             |
