@@ -80,6 +80,7 @@ Solution for LeetCode Easy Problems
 |                                      [860. Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/)                                       |          C#, TypeScript          |
 |                                     [867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)                                      |                C#                |
 |                            [876. Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)                             |                C#                |
+|                                      [888. Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/)                                       |          C#, TypeScript          |
 |                              [922. Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)                               |          C#, TypeScript          |
 |                                    [925. Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/)                                     |            TypeScript            |
 |                                     [938. Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)                                      |                C#                |
