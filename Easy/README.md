@@ -66,6 +66,7 @@ Solution for LeetCode Easy Problems
 |                              [572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)                               |                C#                |
 |                                    [605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)                                     |          C#, TypeScript          |
 |                                [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                                 |                C#                |
+|                                 [665. Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)                                  |          C#, TypeScript          |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
 |                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |          C#, TypeScript          |
