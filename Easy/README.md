@@ -22,6 +22,7 @@ Solution for LeetCode Easy Problems
 |                                 [110. Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)                                  |       C#, TypeScript, Java       |
 |                                             [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)                                              |                C#                |
 |                                     [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)                                     |          C#, TypeScript          |
+|                                  [119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)                                  |                C#                |
 |                      [121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)                       |                C#                |
 |                   [122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)                    |                C#                |
 |                                        [136. Single Number](https://leetcode-cn.com/problems/single-number/)                                         |          C#, JavaScript          |
@@ -54,7 +55,7 @@ Solution for LeetCode Easy Problems
 |                   [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)                    |         C# , TypeScript          |
 |                                  [389. Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)                                   |         C# , TypeScript          |
 |                       [434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)                        |                C#                |
-|             [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)              |          JavaScript, C#          |
+|             [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)              |    C#, JavaScript, TypeScript    |
 |                                       [455. Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)                                        |                C#                |
 |                                     [463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/)                                      |            TypeScript            |
 |                      [501. Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)                       |          C#, TypeScript          |
