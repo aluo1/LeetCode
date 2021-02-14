@@ -23,5 +23,6 @@ Solution for LeetCode Difficult Problems
 |                                       [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                       |          C#          |
 |                                   [493. Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs/)                                   |          C#          |
 |                                   [514. Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)                                   |          C#          |
+|                           [765. Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)                           |          C#          |
 |                        [834. Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                        |          C#          |
 |                         [1095. Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)                          |          C#          |
