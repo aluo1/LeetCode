@@ -58,6 +58,7 @@ Solution for LeetCode Easy Problems
 |             [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)              |    C#, JavaScript, TypeScript    |
 |                                       [455. Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)                                        |                C#                |
 |                                     [463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/)                                      |            TypeScript            |
+|                                 [485. Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)                                  |          C#,TypeScript           |
 |                      [501. Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)                       |          C#, TypeScript          |
 |                                     [509. Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)                                      |          C#, TypeScript          |
 |                   [530. Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)                    |            TypeScript            |
