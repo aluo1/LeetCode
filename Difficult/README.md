@@ -25,4 +25,5 @@ Solution for LeetCode Difficult Problems
 |                                   [514. Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)                                   |          C#          |
 |                           [765. Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)                           |          C#          |
 |                        [834. Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                        |          C#          |
+|       [995. Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)       |          C#          |
 |                         [1095. Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)                          |          C#          |

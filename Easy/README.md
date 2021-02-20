@@ -58,16 +58,20 @@ Solution for LeetCode Easy Problems
 |             [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)              |    C#, JavaScript, TypeScript    |
 |                                       [455. Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)                                        |                C#                |
 |                                     [463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/)                                      |            TypeScript            |
+|                                 [485. Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)                                  |          C#,TypeScript           |
 |                      [501. Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)                       |          C#, TypeScript          |
 |                                     [509. Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)                                      |          C#, TypeScript          |
 |                   [530. Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)                    |            TypeScript            |
 |                          [538. Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)                           |          C#, TypeScript          |
 |                              [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                               |                C#                |
 |                        [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)                         |          C#, TypeScript          |
+|                                    [561. Array Partition I](https://leetcode-cn.com/problems/array-partition-i/)                                     |          C#, TypeScript          |
+|                                   [566. Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)                                    |          C#, TypeScript          |
 |                              [572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)                               |                C#                |
 |                                    [605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)                                     |          C#, TypeScript          |
 |                                [633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)                                 |                C#                |
 |                                 [665. Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)                                  |          C#, TypeScript          |
+|                                   [697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)                                    |          C#, TypeScript          |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
 |                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |          C#, TypeScript          |
