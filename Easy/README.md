@@ -78,6 +78,7 @@ Solution for LeetCode Easy Problems
 |                                [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                 |                C#                |
 |                                     [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                      |          C#, TypeScript          |
 |                             [746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)                              |          C#, TypeScript          |
+|                                      [766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)                                       |          C#, TypeScript          |
 |                                    [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                     |          C#, TypeScript          |
 |                                           [824 - Goat Latin](https://leetcode-cn.com/problems/goat-latin/)                                           |                C#                |
 |                            [830. Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/)                             |          C#, TypeScript          |
