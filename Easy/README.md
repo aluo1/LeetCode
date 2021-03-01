@@ -46,7 +46,7 @@ Solution for LeetCode Easy Problems
 |                                        [242. Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)                                         |          C#, TypeScript          |
 |                                          [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)                                           |          C#, TypeScript          |
 |                                            [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                             |                C#                |
-|                           [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                            |                C#                |
+|                           [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                            |          C#, TypeScript          |
 |                                       [326. Power Of Three](https://leetcode-cn.com/problems/power-of-three/)                                        |                C#                |
 |                                       [344. Reverse String](https://leetcode-cn.com/problems/reverse-string/)                                        |          C#, TypeScript          |
 |                      [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                       |                C#                |
