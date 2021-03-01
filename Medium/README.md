@@ -92,6 +92,7 @@ Solution for LeetCode Problems
 |                                  [1004. Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)                                   |           C#, TypeScript            |
 |                                     [1014. Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)                                      |           C#, TypeScript            |
 |                                           [1024. Video Stitching](https://leetcode-cn.com/problems/video-stitching/)                                            |           C#, TypeScript            |
+|                                    [1052. Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)                                     |           C#, TypeScript            |
 |                            [1248. Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)                             |                 C#                  |
 |                  [1423. Maximum Points You Can Obtain from Cards](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)                   |                 C#                  |
 |                                  [1631. Path With Minimum Effort](https://leetcode-cn.com/problems/path-with-minimum-effort/)                                   |                 C#                  |

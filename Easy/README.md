@@ -46,7 +46,7 @@ Solution for LeetCode Easy Problems
 |                                        [242. Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)                                         |          C#, TypeScript          |
 |                                          [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)                                           |          C#, TypeScript          |
 |                                            [293. Flip Game](https://leetcode-cn.com/problems/flip-game/)                                             |                C#                |
-|                           [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                            |                C#                |
+|                           [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)                            |          C#, TypeScript          |
 |                                       [326. Power Of Three](https://leetcode-cn.com/problems/power-of-three/)                                        |                C#                |
 |                                       [344. Reverse String](https://leetcode-cn.com/problems/reverse-string/)                                        |          C#, TypeScript          |
 |                      [346. Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)                       |                C#                |
@@ -78,10 +78,11 @@ Solution for LeetCode Easy Problems
 |                                [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                 |                C#                |
 |                                     [733. Flood Fill](https://leetcode-cn.com/problems/flood-fill/submissions/)                                      |          C#, TypeScript          |
 |                             [746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)                              |          C#, TypeScript          |
+|                                      [766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)                                       |          C#, TypeScript          |
 |                                    [771. Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)                                     |          C#, TypeScript          |
 |                                           [824 - Goat Latin](https://leetcode-cn.com/problems/goat-latin/)                                           |                C#                |
 |                            [830. Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/)                             |          C#, TypeScript          |
-|                                    [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                     |                C#                |
+|                                    [832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)                                     |          C#, TypeScript          |
 |                                    [836. Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)                                     |          C#, JavaScript          |
 |                             [844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)                              |            TypeScript            |
 |                                      [860. Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/)                                       |          C#, TypeScript          |

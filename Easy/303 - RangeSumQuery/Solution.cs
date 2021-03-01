@@ -52,6 +52,35 @@ public class NumArrayWithPrecalculatedValue
     }
 }
 
+/// <summary>
+/// 执行用时：172 ms, 在所有 C# 提交中击败了 82.00% 的用户
+/// 内存消耗：35.3 MB, 在所有 C# 提交中击败了 60.00% 的用户
+/// </summary>
+public class NumArray 
+{
+    int[] _sums;
+
+    public NumArray(int[] nums) 
+    {
+        int N = nums.Count();
+        _sums = new int[N];
+        if (N > 0)
+        {
+            _sums[0] = nums[0];
+
+            for (var i = 1; i < N; i++)
+            {
+                _sums[i] = nums[i] + _sums[i - 1];
+            }
+        }
+    }
+    
+    public int SumRange(int i, int j) 
+    {
+        return _sums[j] - (((i - 1) >= 0) ? _sums[i - 1] : 0);
+    }
+}
+
 /**
  * Your NumArray object will be instantiated and called as such:
  * NumArray obj = new NumArray(nums);
