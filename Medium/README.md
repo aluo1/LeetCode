@@ -54,6 +54,7 @@ Solution for LeetCode Problems
 |                                            [279. Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)                                            |                 C#                  |
 |                                            [286. Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/)                                            |                 C#                  |
 |                                               [289. Game of Life](https://leetcode-cn.com/problems/game-of-life/)                                               |                 C#                  |
+|                              [304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)                              |           C#, TypeScript            |
 |                                   [316. Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)                                   |                 C#                  |
 |                                                [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)                                                |                 C#                  |
 |                                       [328. Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)                                       |           C#, TypeScript            |
