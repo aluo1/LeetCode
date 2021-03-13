@@ -1,7 +1,9 @@
-/// Question 232. Implement Queue using Stacks (https://leetcode-cn.com/problems/implement-queue-using-stacks/)
-/// 执行用时: 124 ms, 在所有 C# 提交中击败了 67.26% 的用户
-/// 内存消耗: 24 MB, 在所有 C# 提交中击败了 100.00% 的用户
+// Question 232. Implement Queue using Stacks (https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
+/// <summary>
+/// 执行用时：116 ms, 在所有 C# 提交中击败了 88.37% 的用户
+/// 内存消耗：23.8 MB, 在所有 C# 提交中击败了 97.67% 的用户
+/// </summary>
 public class MyQueue
 {
     private Stack<int> queueInStack;

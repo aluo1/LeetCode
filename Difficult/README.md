@@ -19,6 +19,7 @@ Solution for LeetCode Difficult Problems
 |           [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)           |          C#          |
 |                           [321. Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/)                           |          C#          |
 |                              [327. Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)                              |          C#          |
+|                         [354. Russian Doll Envelopes] (https://leetcode-cn.com/problems/russian-doll-envelopes/)                          |          C#          |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |          C#          |
 |                                       [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)                                       |          C#          |
 |                                   [493. Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs/)                                   |          C#          |
