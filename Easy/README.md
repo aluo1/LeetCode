@@ -74,6 +74,7 @@ Solution for LeetCode Easy Problems
 |                                   [697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)                                    |          C#, TypeScript          |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                       [705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/)                                        |          C#, TypeScript          |
+|                                       [706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/)                                        |          C#, TypeScript          |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
 |                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |          C#, TypeScript          |
 |                                [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                 |                C#                |
