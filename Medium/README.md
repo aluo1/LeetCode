@@ -19,6 +19,7 @@ Solution for LeetCode Problems
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
+|                                           [59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)                                            |           C#, TypeScript            |
 |                                               [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)                                                |                 C#                  |
 |                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
 |                                             [86. Partition List](https://leetcode-cn.com/problems/partition-list/)                                              |           C#, TypeScript            |
