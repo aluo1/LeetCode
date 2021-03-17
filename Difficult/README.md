@@ -13,6 +13,7 @@ Solution for LeetCode Difficult Problems
 |                                    [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)                                     |          C#          |
 |                                 [57. Insert Interval](https://leetcode-cn.com/problems/insert-interval/)                                  |    C#, TypeScript    |
 |                                   [72. Edit Distance](https://leetcode-cn.com/problems/edit-distance/)                                    |    JavaScript, C#    |
+|                           [115. Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)                           |          C#          |
 |                                   [140. Word Break II](https://leetcode-cn.com/problems/word-break-ii/)                                   |          C#          |
 |   [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)   |      TypeScript      |
 |                                     [164. Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)                                     |          C#          |
