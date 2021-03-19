@@ -115,4 +115,5 @@ Solution for LeetCode Easy Problems
 |                [1356. Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)                |          C#, TypeScript          |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |                C#                |
 |                         [1370. Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/)                         |                C#                |
+|                                [1603. Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)                                |          C#, TypeScript          |
 |                                           [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)                                           |        Python, JavaScript        |
