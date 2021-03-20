@@ -74,6 +74,7 @@ Solution for LeetCode Easy Problems
 |                                   [697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)                                    |          C#, TypeScript          |
 |                       [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)                        |                C#                |
 |                                       [705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/)                                        |          C#, TypeScript          |
+|                                       [706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/)                                        |          C#, TypeScript          |
 |                                            [716. Max Stack](https://leetcode-cn.com/problems/max-stack/)                                             |                C#                |
 |                                     [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)                                      |          C#, TypeScript          |
 |                                [728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                 |                C#                |
@@ -114,4 +115,5 @@ Solution for LeetCode Easy Problems
 |                [1356. Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)                |          C#, TypeScript          |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |                C#                |
 |                         [1370. Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/)                         |                C#                |
+|                                [1603. Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)                                |          C#, TypeScript          |
 |                                           [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)                                           |        Python, JavaScript        |

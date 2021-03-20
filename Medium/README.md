@@ -19,9 +19,11 @@ Solution for LeetCode Problems
 |                                                    [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)                                                    |           C#, TypeScript            |
 |                                              [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)                                               |             TypeScript              |
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
+|                                           [59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)                                            |           C#, TypeScript            |
 |                                               [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)                                                |                 C#                  |
 |                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
 |                                             [86. Partition List](https://leetcode-cn.com/problems/partition-list/)                                              |           C#, TypeScript            |
+|                                     [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)                                      |                 C#                  |
 |                              [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                               |                 C#                  |
 |                                [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)                                 |                 C#                  |
 |                   [103. Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)                   |                 C#                  |
@@ -39,7 +41,7 @@ Solution for LeetCode Problems
 |                            [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)                            |           C#, TypeScript            |
 |                                        [147. Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)                                        |           C#, TypeScript            |
 |                                                  [148. Sort List](https://leetcode-cn.com/problems/sort-list/)                                                  |                 C#                  |
-|                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
+|                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |           C#, TypeScript            |
 |                                  [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                                  |           C#, JavaScript            |
 |                                   [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)                                   |           C#, JavaScript            |
 |                       [153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)                       |           C#, TypeScript            |
