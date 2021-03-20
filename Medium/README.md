@@ -41,7 +41,7 @@ Solution for LeetCode Problems
 |                            [145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)                            |           C#, TypeScript            |
 |                                        [147. Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)                                        |           C#, TypeScript            |
 |                                                  [148. Sort List](https://leetcode-cn.com/problems/sort-list/)                                                  |                 C#                  |
-|                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |                 C#                  |
+|                           [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)                           |           C#, TypeScript            |
 |                                  [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                                  |           C#, JavaScript            |
 |                                   [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)                                   |           C#, JavaScript            |
 |                       [153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)                       |           C#, TypeScript            |
