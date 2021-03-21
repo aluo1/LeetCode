@@ -21,6 +21,7 @@ Solution for LeetCode Problems
 |                                                  [55. Jump Game](https://leetcode-cn.com/problems/jump-game/)                                                   |                 C#                  |
 |                                           [59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)                                            |           C#, TypeScript            |
 |                                               [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)                                                |                 C#                  |
+|                                          [73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)                                           |           C#, TypeScript            |
 |                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
 |                                             [86. Partition List](https://leetcode-cn.com/problems/partition-list/)                                              |           C#, TypeScript            |
 |                                     [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)                                      |                 C#                  |
