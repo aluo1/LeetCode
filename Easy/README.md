@@ -31,6 +31,7 @@ Solution for LeetCode Easy Problems
 |                   [170. Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/)                    |                C#                |
 |                            [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                             |                C#                |
 |                                     [182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)                                      |          MS SQL Server           |
+|                                     [191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)                                      |          C#, TypeScript          |
 |                                   [202. Happy Number](https://leetcode-cn.com/problems/happy-number/submissions/)                                    |                C#                |
 |                                         [204. Count Primes](https://leetcode-cn.com/problems/count-primes/)                                          |          C#, TypeScript          |
 |                                  [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)                                   |          C#, JavaScript          |
