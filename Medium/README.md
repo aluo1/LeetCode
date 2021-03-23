@@ -62,7 +62,8 @@ Solution for LeetCode Problems
 |                                                [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)                                                |                 C#                  |
 |                                       [328. Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)                                       |           C#, TypeScript            |
 |                                              [338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/)                                              |           C#, TypeScript            |
-|                                    [347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                    |           TypeScript, C#            |
+|                             [341. Flatten Nested List IEnumerator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)                              |                 C#                  |
+|                                    [347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                    |           C#, TypeScript            |
 |                                             [355. Design Twitter](https://leetcode-cn.com/problems/design-twitter/)                                             |                 C#                  |
 |                                         [376. Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)                                         |                 C#                  |
 |                                              [394. Decode String](https://leetcode-cn.com/problems/decode-string/)                                              |                 C#                  |
