@@ -23,6 +23,7 @@ Solution for LeetCode Problems
 |                                               [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)                                                |                 C#                  |
 |                                          [73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)                                           |           C#, TypeScript            |
 |                                                [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)                                                 |             TypeScript              |
+|                      [82. Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)                       |                 C#                  |
 |                                             [86. Partition List](https://leetcode-cn.com/problems/partition-list/)                                              |           C#, TypeScript            |
 |                                     [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)                                      |                 C#                  |
 |                              [94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                               |                 C#                  |
